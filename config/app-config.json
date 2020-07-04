@@ -1,0 +1,13 @@
+{
+    "region": "eu-west-2",
+    "userPool": "eu-west-2_aGIiUNxHU",
+    "userPoolBaseUri": "http://localhost:3000",
+    "clientId": "6ad7irpu00un8us1aad6dtbd1q",
+    "callbackUri": "http://localhost:3000/callback",
+    "signoutUri": "http://localhost:3000",
+    "tokenScopes": [
+        "openid",
+        "email",
+        "profile"
+    ]
+}
